@@ -1,0 +1,1585 @@
+apart_name: ЖК «Смородина», Литер 1,5. 1 квартал 2023, Застройщик ООО «АЛЬФА»
+
+  apart_spec: 1 к. кв. (32,95 кв. м)
+    apart_floor: 1-4
+    apart_price: 129 000
+
+    apart_floor: 5-8
+    apart_price: 130 000
+
+    apart_floor: 9-12
+    apart_price: 131 000
+
+    apart_floor: 13-16
+    apart_price: 132 000
+
+  apart_spec: 1 к. кв. (35,2 кв. м)
+    apart_floor: 1-4
+    apart_price: 128 000
+
+    apart_floor: 5-8
+    apart_price: 129 000
+
+    apart_floor: 9-12
+    apart_price: 130 000
+
+    apart_floor: 13-16
+    apart_price: 131 000
+
+  apart_spec: 2 к. кв.
+    apart_floor: 1-3
+    apart_price: 111 000
+
+    apart_floor: 4
+    apart_price: 112 000
+
+    apart_floor: 5-8
+    apart_price: 113 000
+
+    apart_floor: 9-12
+    apart_price: 114 000
+
+    apart_floor: 13-16
+    apart_price: 114 000
+
+
+apart_name: ЖК «Смородина», Литер 2,3,4. 4 квартал 2023, Застройщик ООО «АЛЬФА»
+
+  apart_spec: 1 к. кв. (32,95 кв. м)
+    apart_floor: 1
+    apart_price: 119 000
+    
+    apart_floor: 2-4
+    apart_price: 121 000
+    
+    apart_floor: 5-8
+    apart_price: 122 000
+    
+    apart_floor: 9-12
+    apart_price: 123 000
+    
+    apart_floor: 13-16
+    apart_price: 124 000
+
+  apart_spec: 1 к. кв. (35,2 кв. м)
+    apart_floor: 1
+    apart_price: 118 000
+    
+    apart_floor: 2-4
+    apart_price: 120 000
+    
+    apart_floor: 5-8
+    apart_price: 121 000
+    
+    apart_floor: 9-12
+    apart_price: 122 000
+    
+    apart_floor: 13-16
+    apart_price: 123 000
+
+  apart_spec: 2 к. кв. (49,76 – 51,79 кв. м)
+    apart_floor: 1
+    apart_price: 101 000
+    
+    apart_floor: 2-4
+    apart_price: 103 000
+    
+    apart_floor: 5-8
+    apart_price: 104 000
+    
+    apart_floor: 9-12
+    apart_price: 105 000
+    
+    apart_floor: 13-16
+    apart_price: 106 000
+
+  apart_spec: 2 к. кв. (57,78 кв. м)
+    apart_floor: 1-4
+    apart_price: 105 000
+    
+    apart_floor: 5-8
+    apart_price: 106 000
+    
+    apart_floor: 9-12
+    apart_price: 107 000
+    
+    apart_floor: 13-16
+    apart_price: 108 000
+    
+  apart_spec: 3 к. кв. (68,22 кв. м)
+    apart_floor: 1-8
+    apart_price: 103 000
+    
+    apart_floor: 9-12
+    apart_price: 105 000
+    
+    apart_floor: 13-16
+    apart_price: 106 000
+    
+    
+
+
+
+
+
+
+
+------------------
+
+apart_name: АО «The Grand Palace», 2 квартал 2022, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ»
+
+  apart_spec: 1-комн. лоты 21,5-25,7 кв. м
+    apart_floor: 6-7
+    apart_price: 225 000
+
+    apart_floor: 8-9
+    apart_price: 237 000
+
+    apart_floor: 10-11
+    apart_price: 250 000
+
+    apart_floor: 12-13
+    apart_price: 262 000
+
+    apart_floor: 14-15
+    apart_price: 274 000
+
+  apart_spec: 1-комн. лоты 26,1-32,4 кв. м
+    apart_floor: 6-7
+    apart_price: 218 000
+
+    apart_floor: 8-9
+    apart_price: 230 000
+
+    apart_floor: 10-11
+    apart_price: 241 000
+
+    apart_floor: 12-13
+    apart_price: 253 000
+
+    apart_floor: 14-15
+    apart_price: 264 000
+
+  apart_spec: 2-комн. лоты 42,1-46,8 кв. м
+    apart_floor: 6-7
+    apart_price: 170 000
+
+    apart_floor: 8-9
+    apart_price: 178 000
+
+    apart_floor: 10-11
+    apart_price: 187 000
+
+    apart_floor: 12-13
+    apart_price: 196 000
+
+    apart_floor: 14-15
+    apart_price: 205 000
+
+  apart_spec: 2-комн. лоты 47,2-59,1 кв. м
+    apart_floor: 6-7
+    apart_price: 151 000
+
+    apart_floor: 8-9
+    apart_price: 160 000
+
+    apart_floor: 10-11
+    apart_price: 169 000
+
+    apart_floor: 12-13
+    apart_price: 177 000
+
+    apart_floor: 14-15
+    apart_price: 185 000
+
+  apart_spec: 2-комн. лоты 64,9-70,8 кв. м
+    apart_floor: 6-7
+    apart_price: 141 000
+
+    apart_floor: 8-9
+    apart_price: 150 000
+
+    apart_floor: 10-11
+    apart_price: 158 000
+
+    apart_floor: 12-13
+    apart_price: 165 000
+
+    apart_floor: 14-15
+    apart_price: 174 000
+
+  apart_spec: 3-комн. лоты 64,4-64,5 кв. м
+    apart_floor: 6-7
+    apart_price: 168 000
+
+    apart_floor: 8-9
+    apart_price: 176 000
+
+    apart_floor: 10-11
+    apart_price: 184 000
+
+    apart_floor: 12-13
+    apart_price: 193 000
+
+    apart_floor: 14-15
+    apart_price: 202 000
+
+  apart_spec: 3-комн. лоты 75,6 кв. м
+    apart_floor: 6-7
+    apart_price: 175 000
+
+    apart_floor: 8-9
+    apart_price: 183 000
+
+    apart_floor: 10-11
+    apart_price: 193 000
+
+  apart_spec: Наценка на апартаменты с балконами (12-15 этаж) 1-комн.
+    apart_floor: 12-15
+    apart_price: + 5 500 руб./кв. м.
+
+  apart_spec: Наценка на апартаменты с балконами (12-15 этаж) 2-комн.
+    apart_floor: 12-15
+    apart_price: + 3 500 руб./кв. м.
+
+  apart_spec: Кладовые помещения
+    apart_floor: 6-15
+    apart_price: 70 000
+
+------------------
+
+apart_name: ЖК «AVrorA», 3 квартал 2022, Застройщик ООО «АльфаСтройКомплекс»
+
+  apart_spec: 1-комн. лоты 44,44-44,54 кв. м
+    apart_floor: 2
+    apart_price: 202 000
+
+  apart_spec: 1-комн. лоты 46,04-48,26 кв. м
+    apart_floor: 1-4
+    apart_price: 199 000
+
+    apart_floor: 5-8
+    apart_price: 204 000
+
+    apart_floor: 9-12
+    apart_price: 208 000
+
+    apart_floor: 13-16
+    apart_price: 212 000
+
+  apart_spec: 1-комн. лот 49,51 кв. м
+    apart_floor: 2
+    apart_price: 193 000
+
+  apart_spec: 1-комн. лоты 51,01-51,47 кв. м
+    apart_floor: 3-4
+    apart_price: 194 000
+
+    apart_floor: 5-8
+    apart_price: 199 000
+
+    apart_floor: 9-12
+    apart_price: 202 000
+
+    apart_floor: 13-16
+    apart_price: 205 000
+
+  apart_spec: 1-комн. лот 52,11 кв. м
+    apart_floor: 2
+    apart_price: 198 000
+
+  apart_spec: 1-комн. лоты 52,62-54,04 кв. м
+    apart_floor: 1-4
+    apart_price: 201 000
+
+    apart_floor: 5-8
+    apart_price: 207 000
+
+    apart_floor: 9-12
+    apart_price: 210 000
+
+    apart_floor: 13-16
+    apart_price: 213 000
+
+  apart_spec: 1-комн. лоты 62,39 кв. м
+    apart_floor: 3-4
+    apart_price: 182 000
+
+    apart_floor: 5-8
+    apart_price: 187 000
+
+    apart_floor: 9-12
+    apart_price: 190 000
+
+    apart_floor: 13-16
+    apart_price: 193 000
+
+    apart_floor: 17-22
+    apart_price: 198 000
+
+  apart_spec: 2-комн. лот 67,53 кв. м
+    apart_floor: 2
+    apart_price: 194 000
+
+  apart_spec: 2-комн. лоты 69,09-71,71 кв. м
+    apart_floor: 1-4
+    apart_price: 200 000
+
+    apart_floor: 5-8
+    apart_price: 205 000
+
+    apart_floor: 9-12
+    apart_price: 208 000
+
+    apart_floor: 13-16
+    apart_price: 211 000
+
+  apart_spec: 2-комн. лот 80,72 кв. м
+    apart_floor: 2
+    apart_price: 171 000
+
+  apart_spec: 2-комн. лоты 85,52-86,15 кв. м
+    apart_floor: 3-4
+    apart_price: 174 000
+
+    apart_floor: 5-8
+    apart_price: 178 000
+
+    apart_floor: 9-12
+    apart_price: 180 000
+
+    apart_floor: 13-16
+    apart_price: 183 000
+
+  apart_spec: 3-комн. лоты 120,48 кв. м
+    apart_floor: 3
+    apart_price: 167 000
+
+  apart_spec: 3-комн. лоты 123,13-123,48 кв. м
+    apart_floor: 3-4
+    apart_price: 170 000
+
+    apart_floor: 5-8
+    apart_price: 173 000
+
+    apart_floor: 9-12
+    apart_price: 175 000
+
+    apart_floor: 13-16
+    apart_price: 177 000
+
+    apart_floor: 17-20
+    apart_price: 180 500
+
+    apart_floor: 21-22
+    apart_price: 184 000
+
+  apart_spec: 3-комн. лоты 127,09 кв. м
+    apart_floor: 3-4
+    apart_price: 217 000
+
+    apart_floor: 5-8
+    apart_price: 220 000
+
+    apart_floor: 9-12
+    apart_price: 222 000
+
+    apart_floor: 13-16
+    apart_price: 224 000
+
+    apart_floor: 17-20
+    apart_price: 228 000
+
+    apart_floor: 21-22
+    apart_price: 231 000
+
+
+apart_name: ЖК «URAL», 4 квартал 2024, Застройщик ООО «СЗ ВЕРТИКАЛЬ»
+
+  apart_spec: Студия (23,02-27,56 кв. м)
+    apart_floor: 3-6 этаж
+    apart_price: 155 000
+
+    apart_floor: 7-15 этаж
+    apart_price: 160 000
+
+    apart_floor: 16-23 этаж
+    apart_price: 168 000
+
+  apart_spec: 1-комн. (35,13-37,26 кв. м)
+    apart_floor: 3-6 этаж
+    apart_price: 138 000
+
+    apart_floor: 7-15 этаж
+    apart_price: 142 000
+
+    apart_floor: 16-23 этаж
+    apart_price: 145 000
+
+  apart_spec: 1-комн. (45,43-49,05 кв. м)
+    apart_floor: 3-6 этаж
+    apart_price: 121 000
+
+    apart_floor: 7-15 этаж
+    apart_price: 126 000
+
+    apart_floor: 16-23 этаж
+    apart_price: 130 000
+
+  apart_spec: 2-комн. (60,06-61,7 кв. м)
+    apart_floor: 3-6 этаж
+    apart_price: 118 000
+
+    apart_floor: 7-15 этаж
+    apart_price: 120 000
+
+    apart_floor: 16-23 этаж
+    apart_price: 125 000
+
+  apart_spec: 3-комн. (77,34 - 79,14 кв. м)
+    apart_floor: 3-6 этаж
+    apart_price: 106 000
+
+    apart_floor: 7-15 этаж
+    apart_price: 109 000
+
+    apart_floor: 16-23 этаж
+    apart_price: 114 000
+
+  apart_spec: 3-комн. (90,91-92,68 кв. м)
+    apart_floor: 3-6 этаж
+    apart_price: 101 000
+
+    apart_floor: 7-15 этаж
+    apart_price: 107 000
+
+    apart_floor: 16-23 этаж
+    apart_price: 111 000
+
+
+apart_name: ЖК «Зеленодар», литер 1, ул. 3-я Трудовая 1/3, 4 квартал 2021. Застройщик ООО «Модо Капитал», Правообладатель ООО «Капитал»
+
+  apart_spec: 2-комн. квартира №310 (52,4 кв. м.)
+    apart_floor: 1 этаж
+    apart_price: 91 000
+
+  apart_spec: 2-комн. квартира №374 (55,8 кв.м.)
+    apart_floor: 7 этаж
+    apart_price: 91 000
+
+
+apart_name: ЖК «Зеленодар», литер 4А, ул. 3-я Трудовая 1/5, 2 квартал 2023. Застройщик ООО «Модо Капитал»
+
+  apart_spec: 1 к. кв. (38,4-42,3 кв. м)
+    apart_floor: 1
+    apart_price: 111 000
+
+    apart_floor: 2-4
+    apart_price: 113 000
+
+    apart_floor: 5-8
+    apart_price: 115 000
+
+    apart_floor: 9-12
+    apart_price: 118 000
+
+    apart_floor: 13-16
+    apart_price: 120 000
+
+  apart_spec: 2к. кв. (70,3 - 71,8 кв. м)
+    apart_floor: 1
+    apart_price: 94 000
+
+    apart_floor: 2-4
+    apart_price: 95 000
+
+    apart_floor: 5-8
+    apart_price: 96 000
+
+    apart_floor: 9-12
+    apart_price: 97 000
+
+    apart_floor: 13-16
+    apart_price: 98 000
+
+  apart_spec: 3 к. кв. (91,2 кв. м)
+    apart_floor: 2-4
+    apart_price: 87 000
+
+    apart_floor: 5-8
+    apart_price: 88 000
+
+    apart_floor: 9-12
+    apart_price: 89 000
+
+    apart_floor: 13-16
+    apart_price: 90 000
+
+
+apart_name: ЖК «Зеленодар», литер 4Б, ул. 3-я Трудовая 1/10, 3 квартал 2022. Застройщик ООО «АФК»
+
+  apart_spec: 1 к. кв. (38,4-39,2 кв. м)
+    apart_floor: 2
+    apart_price: 115 000
+
+    apart_floor: 3-4
+    apart_price: 118 000
+
+    apart_floor: 5-8
+    apart_price: 119 000
+
+    apart_floor: 9-12
+    apart_price: 123 000
+
+    apart_floor: 13-16
+    apart_price: 121 000
+
+  apart_spec: 
+1 к. кв. (41,4-42,3 кв. м)
+    apart_floor: 2
+    apart_price: 112 000
+
+    apart_floor: 3-4
+    apart_price: 115 000
+
+    apart_floor: 5-8
+    apart_price: 117 000
+
+    apart_floor: 9-12
+    apart_price: 117 000
+
+    apart_floor: 13-16
+    apart_price: 118 000
+
+  apart_spec: 
+2 к. кв. (70,3 кв. м)
+    apart_floor: 2-8
+    apart_price: 99 000
+
+    apart_floor: 9-12
+    apart_price: 103 000
+
+    apart_floor: 13-16
+    apart_price: 101 000
+
+  apart_spec: 3 к. кв. (90,2 кв. м)
+    apart_floor: 2-4
+    apart_price: 87 000
+
+    apart_floor: 5-8
+    apart_price: 88 000
+
+    apart_floor: 9-12
+    apart_price: 89 000
+
+    apart_floor: 13-16
+    apart_price: 95 000
+
+
+apart_name: ЖК «Зеленодар», литер 2, ул. 3-я Трудовая 1/7, 1 квартал 2023. Застройщик ООО «АФК»
+
+  apart_spec: 1 к. кв. (25,48 - 29,8 кв. м)
+    apart_floor: 2-4
+    apart_price: 122 000
+
+    apart_floor: 5-9
+    apart_price: 124 000
+
+    apart_floor: 10-14
+    apart_price: 123 000
+
+  apart_spec: 2 к. кв. (52,81 – 56,85 кв. м)
+    apart_floor: 2-4
+    apart_price: 106 000
+
+    apart_floor: 5-9
+    apart_price: 108 000
+
+    apart_floor: 10-14
+    apart_price: 107 000
+
+  apart_spec: 2 к. кв. (67,98 кв. м)
+    apart_floor: 2-4
+    apart_price: 102 000
+
+    apart_floor: 5-9
+    apart_price: 103 000
+
+    apart_floor: 10-14
+    apart_price: 105 000
+
+
+apart_name: ЖК «Fresh», Литер 2, ул. В. Гассия 4/7, 3 квартал 2022, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»
+
+  apart_spec: 1 к. кв.
+2 подъезд, оси 3,4,5, этажи 3-18 - плюс 1 100 руб./кв. м к базовой цене,
+2 подъезд, оси 3,4,5, этажи 19-24 - плюс 1 200 руб./кв. м к базовой цене,
+2 подъезд, оси 6,7,8 этажи 3-9 - плюс 2 200 руб./кв. м к базовой цене, 
+2 подъезд, оси 6,7,8, этажи 10-24 - плюс 2 300 руб./кв. м к базовой цене, 
+3 подъезд, оси 3,4,5 - плюс 4 500 руб./кв. м к базовой цене,
+3 подъезд, оси 6,7 - плюс 5 600 руб./кв. м к базовой цене.
+    apart_floor: 3-9
+    apart_price: 119 300
+
+    apart_floor: 10-18
+    apart_price: 121 500
+
+    apart_floor: 19-24
+    apart_price: 122 600
+
+  apart_spec: 2 к. кв.
+Все квартиры в 3-м подъезде - плюс 4 400 руб./кв. м к базовой цене
+    apart_floor: 3-9
+    apart_price: 97 800
+
+    apart_floor: 10-18
+    apart_price: 100 000
+
+    apart_floor: 19-24
+    apart_price: 101 100
+
+  apart_spec: 3 к. кв. (88,8 кв.м.)
+    apart_floor: 3-9
+    apart_price: 106 000
+
+    apart_floor: 10-18
+    apart_price: 107 100
+
+    apart_floor: 19-24
+    apart_price: 108 200
+
+  apart_spec: 3 к. кв. (95,7-96,9 кв.м.)
+    apart_floor: 3-9
+    apart_price: 94 900
+
+    apart_floor: 10-18
+    apart_price: 96 000
+
+    apart_floor: 19-24
+    apart_price: 97 100
+
+  apart_spec: 3 к. кв. (97,8 кв.м.)
+    apart_floor: 3-9
+    apart_price: 91 600
+
+    apart_floor: 10-18
+    apart_price: 92 700
+
+    apart_floor: 19-24
+    apart_price: 93 800
+
+  apart_spec: 3 к. кв. (104,2 кв.м.)
+    apart_floor: 3-9
+    apart_price: 104 900
+
+    apart_floor: 10-18
+    apart_price: 106 000
+
+    apart_floor: 19-24
+    apart_price: 107 100
+
+
+apart_name: ЖК «Fresh», Литер 3, ул. В. Гассия 4/7, 2 квартал 2023, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»
+
+  apart_spec: 1 к. кв.
+2 подъезд, оси 3,4,5 - плюс 2 000 руб./кв. м к базовой цене,
+2 подъезд, оси 6,7 - плюс 4 000 руб./кв. м к базовой цене, 
+
+    apart_floor: 3-6
+    apart_price: 116 000
+
+    apart_floor: 7-10
+    apart_price: 118 000
+
+    apart_floor: 11-16
+    apart_price: 119 000
+
+    apart_floor: 17-19
+    apart_price: 121 000
+
+    apart_floor: 20-24
+    apart_price: 122 000
+
+  apart_spec: 2 к. кв.
+Все квартиры во 2-м подъезде - плюс 4 000 руб./кв. м к базовой цене
+    apart_floor: 3-6
+    apart_price: 93 000
+
+    apart_floor: 7-10
+    apart_price: 93 000
+
+    apart_floor: 11-16
+    apart_price: 94 000
+
+    apart_floor: 17-19
+    apart_price: 96 000
+
+    apart_floor: 20-24
+    apart_price: 96 000
+
+  apart_spec: 3 к. кв. (97,8 кв. м.)
+    apart_floor: 3-6
+    apart_price: 86 000
+
+    apart_floor: 7-10
+    apart_price: 87 000
+
+    apart_floor: 11-16
+    apart_price: 88 000
+
+    apart_floor: 17-19
+    apart_price: 90 000
+
+    apart_floor: 20-24
+    apart_price: 91 000
+
+
+apart_name: ЖК «Fresh», Литер 4, ул. В. Гассия 4/7, 3 квартал 2024, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»
+
+  apart_spec: 1 к. кв., ось 1 (40,5 кв. м)
+    apart_floor: 3-6
+    apart_price: 113 000
+
+    apart_floor: 7-10
+    apart_price: 115 000
+
+    apart_floor: 11-16
+    apart_price: 116 000
+
+    apart_floor: 17-19
+    apart_price: 118 000
+
+    apart_floor: 20-24
+    apart_price: 119 000
+
+  apart_spec: 1 к. кв., оси 4,5 (41,4-43,1 кв. м)
+    apart_floor: 3-6
+    apart_price: 115 000
+
+    apart_floor: 7-10
+    apart_price: 117 000
+
+    apart_floor: 11-16
+    apart_price: 118 000
+
+    apart_floor: 17-19
+    apart_price: 120 000
+
+    apart_floor: 20-24
+    apart_price: 121 000
+
+  apart_spec: 1 к. кв., оси 6,7 (39,8-41,5 кв. м)
+    apart_floor: 3-6
+    apart_price: 117 000
+
+    apart_floor: 7-10
+    apart_price: 119 000
+
+    apart_floor: 11-16
+    apart_price: 120 000
+
+    apart_floor: 17-19
+    apart_price: 122 000
+
+    apart_floor: 20-24
+    apart_price: 123 000
+
+  apart_spec: 2 к. кв. (64,8-65,9 кв. м)
+    apart_floor: 3-6
+    apart_price: 94 000
+
+    apart_floor: 7-10
+    apart_price: 94 000
+
+    apart_floor: 11-16
+    apart_price: 95 000
+
+    apart_floor: 17-19
+    apart_price: 97 000
+
+    apart_floor: 20-24
+    apart_price: 97 000
+
+  apart_spec: 1 к. кв. ЕВРО (67,4 кв. м)
+    apart_floor: 3-6
+    apart_price: 110 000
+
+    apart_floor: 7-10
+    apart_price: 112 000
+
+    apart_floor: 11-16
+    apart_price: 114 000
+
+    apart_floor: 17-19
+    apart_price: 117 000
+
+    apart_floor: 20-24
+    apart_price: 120 000
+
+  apart_spec: 2 к. кв. ЕВРО (91,6 кв. м)
+    apart_floor: 3-6
+    apart_price: 92 000
+
+    apart_floor: 7-10
+    apart_price: 93 000
+
+    apart_floor: 11-16
+    apart_price: 94 000
+
+    apart_floor: 17-19
+    apart_price: 96 000
+
+    apart_floor: 20-24
+    apart_price: 97 000
+
+  apart_spec: 3 к. кв. (95,4 кв. м)
+    apart_floor: 3-6
+    apart_price: 81 000
+
+    apart_floor: 7-10
+    apart_price: 82 000
+
+    apart_floor: 11-16
+    apart_price: 83 000
+
+    apart_floor: 17-19
+    apart_price: 85 000
+
+    apart_floor: 20-24
+    apart_price: 86 000
+
+
+apart_name: ЖК «Novella», Литер 1, ул. Питерская 40, 4 квартал 2023. Застройщик ООО «Специализированный застройщик АСК 6»
+
+  apart_spec: 1 к. кв. (27,89-28,9 кв. м)
+    apart_floor: 1-2
+    apart_price: 149 000
+
+    apart_floor: 3-4
+    apart_price: 150 000
+
+    apart_floor: 5-8
+    apart_price: 151 000
+
+    apart_floor: 9-12
+    apart_price: 152 000
+
+    apart_floor: 13-15
+    apart_price: 153 000
+
+    apart_floor: 16-19
+    apart_price: 154 000
+
+  apart_spec: 1 к. кв. (29,13-32,93 кв. м)
+    apart_floor: 1-2
+    apart_price: 144 000
+
+    apart_floor: 3-4
+    apart_price: 145 000
+
+    apart_floor: 5-8
+    apart_price: 146 000
+
+    apart_floor: 9-12
+    apart_price: 147 000
+
+    apart_floor: 13-15
+    apart_price: 148 000
+
+    apart_floor: 16-19
+    apart_price: 149 000
+
+  apart_spec: 1 к. кв. (34,7-34,92 кв. м)
+    apart_floor: 1-2
+    apart_price: 139 000
+
+    apart_floor: 3-4
+    apart_price: 140 000
+
+    apart_floor: 5-8
+    apart_price: 141 000
+
+    apart_floor: 9-12
+    apart_price: 142 000
+
+    apart_floor: 13-15
+    apart_price: 143 000
+
+    apart_floor: 16-19
+    apart_price: 144 000
+
+  apart_spec: 1 к. кв. (35,54-36,9 кв. м)
+    apart_floor: 1-2
+    apart_price: 136 000
+
+    apart_floor: 3-4
+    apart_price: 137 000
+
+    apart_floor: 5-8
+    apart_price: 138 000
+
+    apart_floor: 9-12
+    apart_price: 139 000
+
+    apart_floor: 13-15
+    apart_price: 140 000
+
+    apart_floor: 16-19
+    apart_price: 141 000
+
+  apart_spec: 1 к. кв. (37,29-39,81 кв. м)
+    apart_floor: 1-2
+    apart_price: 133 000
+
+    apart_floor: 3-4
+    apart_price: 134 000
+
+    apart_floor: 5-8
+    apart_price: 135 000
+
+    apart_floor: 9-12
+    apart_price: 136 000
+
+    apart_floor: 13-15
+    apart_price: 137 000
+
+    apart_floor: 16-19
+    apart_price: 138 000
+
+  apart_spec: 1 к. кв. (40,11-44,97 кв. м)
+    apart_floor: 1-2
+    apart_price: 127 000
+
+    apart_floor: 3-4
+    apart_price: 128 000
+
+    apart_floor: 5-8
+    apart_price: 129 000
+
+    apart_floor: 9-12
+    apart_price: 130 000
+
+    apart_floor: 13-15
+    apart_price: 131 000
+
+    apart_floor: 16-19
+    apart_price: 132 000
+
+  apart_spec: 2 к. кв. (56,72-59,2 кв. м)
+    apart_floor: 1-2
+    apart_price: 113 000
+
+    apart_floor: 3-4
+    apart_price: 114 000
+
+    apart_floor: 5-8
+    apart_price: 115 000
+
+    apart_floor: 9-12
+    apart_price: 116 000
+
+    apart_floor: 13-15
+    apart_price: 117 000
+
+    apart_floor: 16-19
+    apart_price: 118 000
+
+  apart_spec: 2 к. кв. (59,67-64,56 кв. м)
+    apart_floor: 1-2
+    apart_price: 112 000
+
+    apart_floor: 3-4
+    apart_price: 113 000
+
+    apart_floor: 5-8
+    apart_price: 114 000
+
+    apart_floor: 9-12
+    apart_price: 115 000
+
+    apart_floor: 13-15
+    apart_price: 116 000
+
+    apart_floor: 16-19
+    apart_price: 117 000
+
+  apart_spec: 2 к. кв. (65,06-66,76 кв. м)
+    apart_floor: 1-2
+    apart_price: 108 000
+
+    apart_floor: 3-4
+    apart_price: 109 000
+
+    apart_floor: 5-8
+    apart_price: 110 000
+
+    apart_floor: 9-12
+    apart_price: 111 000
+
+    apart_floor: 13-15
+    apart_price: 112 000
+
+    apart_floor: 16-19
+    apart_price: 113 000
+
+  apart_spec: 3 к. кв. (75,37-76,59 кв. м)
+    apart_floor: 1-2
+    apart_price: 115 000
+
+    apart_floor: 3-4
+    apart_price: 116 000
+
+    apart_floor: 5-8
+    apart_price: 117 000
+
+    apart_floor: 9-12
+    apart_price: 118 000
+
+    apart_floor: 13-15
+    apart_price: 119 000
+
+    apart_floor: 16-19
+    apart_price: 120 000
+
+
+apart_name: ЖК «Novella», Литер 4.5.6, ул. Питерская 40, 4 квартал 2023. Застройщик ООО «Специализированный застройщик АСК 6»
+
+  apart_spec: Студия 
+    apart_floor: 1-8
+    apart_price: 166 000
+
+    apart_floor: 9-12
+    apart_price: 167 000
+
+    apart_floor: 13-15
+    apart_price: 168 000
+
+    apart_floor: 16-19
+    apart_price: 169 000
+
+  apart_spec: 1 к. кв. (34,54-34,84 кв. м)
+    apart_floor: 1-2
+    apart_price: 134 000
+
+    apart_floor: 3-4
+    apart_price: 135 000
+
+    apart_floor: 5-8
+    apart_price: 136 000
+
+    apart_floor: 9-12
+    apart_price: 137 000
+
+    apart_floor: 13-15
+    apart_price: 138 000
+
+    apart_floor: 16-19
+    apart_price: 139 000
+
+  apart_spec: 1 к. кв. (35,09-40 кв. м)
+    apart_floor: 1-2
+    apart_price: 133 000
+
+    apart_floor: 3-4
+    apart_price: 134 000
+
+    apart_floor: 5-8
+    apart_price: 135 000
+
+    apart_floor: 9-12
+    apart_price: 136 000
+
+    apart_floor: 13-15
+    apart_price: 137 000
+
+    apart_floor: 16-19
+    apart_price: 138 000
+
+  apart_spec: 1 к. кв. (40,09-48,24 кв. м)
+    apart_floor: 1-2
+    apart_price: 125 000
+
+    apart_floor: 3-4
+    apart_price: 126 000
+
+    apart_floor: 5-8
+    apart_price: 127 000
+
+    apart_floor: 9-12
+    apart_price: 128 000
+
+    apart_floor: 13-15
+    apart_price: 129 000
+
+    apart_floor: 16-19
+    apart_price: 130 000
+
+  apart_spec: 2 к. кв. (50,1-59,3 кв. м)
+    apart_floor: 1-2
+    apart_price: 115 000
+
+    apart_floor: 3-4
+    apart_price: 116 000
+
+    apart_floor: 5-8
+    apart_price: 117 000
+
+    apart_floor: 9-12
+    apart_price: 118 000
+
+    apart_floor: 13-15
+    apart_price: 119 000
+
+    apart_floor: 16-19
+    apart_price: 120 000
+
+  apart_spec: 2 к. кв. (59,53-64,72 кв. м)
+    apart_floor: 1-2
+    apart_price: 111 000
+
+    apart_floor: 3-4
+    apart_price: 112 000
+
+    apart_floor: 5-8
+    apart_price: 113 000
+
+    apart_floor: 9-12
+    apart_price: 114 000
+
+    apart_floor: 13-15
+    apart_price: 115 000
+
+    apart_floor: 16-19
+    apart_price: 116 000
+
+  apart_spec: 2 к. кв. (64,8-69,34 кв. м)
+    apart_floor: 1-2
+    apart_price: 108 000
+
+    apart_floor: 3-4
+    apart_price: 109 000
+
+    apart_floor: 5-8
+    apart_price: 110 000
+
+    apart_floor: 9-12
+    apart_price: 111 000
+
+    apart_floor: 13-15
+    apart_price: 112 000
+
+    apart_floor: 16-19
+    apart_price: 113 000
+
+  apart_spec: 3 к. кв. (72-77,32 кв. м)
+    apart_floor: 1-2
+    apart_price: 106 000
+
+    apart_floor: 3-4
+    apart_price: 107 000
+
+    apart_floor: 5-8
+    apart_price: 108 000
+
+    apart_floor: 9-12
+    apart_price: 109 000
+
+    apart_floor: 13-15
+    apart_price: 110 000
+
+    apart_floor: 16-19
+    apart_price: 111 000
+
+
+apart_name: ЖК «Спортивный парк», Литер 12, ул. Войсковая 4, 1 квартал 2022. Застройщик ООО «АЛЬФА»
+
+  apart_spec: 1 к. кв.
+    apart_floor: 1-8
+    apart_price: 98 000
+
+
+apart_name: ЖК «Спортивный парк», Литер 7, ул. Войсковая 4, 2 квартал 2022. Застройщик ООО «АЛЬФА»
+
+  apart_spec: 1 к. кв. (45,6-45,9 кв. м)
+    apart_floor: 1-8
+    apart_price: 101000
+
+  apart_spec: 1 к. кв. (41,2-41,6 кв. м)
+    apart_floor: 1-8
+    apart_price: 109000
+
+
+apart_name: ЖК «Спортивный парк», Литер 8, ул. Войсковая 4, 2 квартал 2022. Застройщик ООО «АЛЬФА»
+
+  apart_spec: 1 к. кв. (46,7-49,1 кв. м)
+    apart_floor: 1-8
+    apart_price: 98000
+
+  apart_spec: 1 к. кв. (50,2-52,5 кв. м)
+    apart_floor: 1,8
+    apart_price: 91000
+
+    apart_floor: 2-7
+    apart_price: 94000
+
+
+apart_name: ЖК «Спортивный парк», Литер 10, ул. Войсковая 4, 3 квартал 2022. Застройщик ООО «АЛЬФА»
+
+  apart_spec: 1 к. кв. (45,6-45,9 кв. м)
+    apart_floor: 1-8
+    apart_price: 102000
+
+  apart_spec: 2 к. кв.
+    apart_floor: 1-8
+    apart_price: 92000
+
+
+apart_name: ЖК «Role Clef», ул. им. Кондратенко Н.И., 8, 2 полугодие 2021 года (Приложение 2) Застройщик ООО «Уютный дом»
+
+  apart_spec: 1 к. кв.
+    apart_floor: 2-12
+    apart_price: 305 000 – 405 000
+
+  apart_spec: 2 к. кв.
+    apart_floor: 2-12
+    apart_price: 315 000 – 355 000
+
+  apart_spec: 3 к. кв. 
+    apart_floor: 2-12
+    apart_price: 325 000 – 335 000
+
+  apart_spec: Кладовые помещения (2,2-8 кв.м.)
+    apart_floor: -2
+    apart_price: 250 000
+
+  apart_spec: Кладовые помещения (10,2-29,1 кв.м.)
+    apart_floor: -2
+    apart_price: 200 000
+
+  apart_spec: Кладовые помещения 
+    apart_floor: -1
+    apart_price: 300 000
+
+
+apart_name: ЖК «Дом на Лаврова», ул. Лаврова, 91, дом сдан, правообладатель ИП Кукулян Р.А., ИП Кукулян Е.
+
+  apart_spec: Студия (15,5-16,2 м2)
+    apart_floor: 1-5
+    apart_price: 125 000
+
+  apart_spec: Студия (20,1 м2)
+    apart_floor: 2-5
+    apart_price: 115 000
+
+  apart_spec: 2 к. кв.
+    apart_floor: 1-5
+    apart_price: 69 000
+
+------------------
+
+
+
+apart_name: СНТ «Фанагорийская усадьба», г. Горячий ключ
+
+  apart_spec: З/у возле реки
+    apart_floor: 1 сотка
+    apart_price: 250 000
+
+  apart_spec: З/у в центре (до 7 соток включительно)
+    apart_floor: 1 сотка
+    apart_price: 186 000
+  
+  apart_spec: З/у в центре (7,43-8,66 соток)
+    apart_floor: 1 сотка
+    apart_price: 176 000
+    
+  apart_spec: З/у в центре (9,58-26,81 соток)
+    apart_floor: 1 сотка
+    apart_price: 160 000
+
+  apart_spec: З/у по ул. Речная 21, 23
+    apart_floor: 1 сотка
+    apart_price: 310 000
+  
+  apart_spec: З/у по ул. Речная 93, 95
+    apart_floor: участок
+    apart_price: 3 000 000
+
+
+apart_name: Земельные участки проекта «Белая дача»
+
+  apart_spec: Земельный участок с к/н 23:43:0415001:3028; ул., Центральная 44
+    apart_floor: участок
+    apart_price: 15 000 000
+
+------------------
+
+class: Парковки
+
+  apart_spec: ЖК «Дом на Школьной»
+    apart_price: 400 000
+
+  apart_spec: ЖК «Адмирал»
+    apart_price: 1 000 000
+
+  apart_spec: ЖК «Маршал»
+    apart_price: 750 000 – семейное парковочное место (одно из пары)
+
+  apart_spec: ЖК «Role Clef»
+    apart_price: 3 000 000 руб.– парковочное место
+2 000 000 руб.– семейное парковочное место (одно из пары)
+
+
+  apart_spec: ЖК «URAL», блок-секция 1-5
+    apart_price: 500 000 руб. - парковочное место площадью 13,8-13,9 кв. м. -1 этаж.
+550 000 руб. - парковочное место площадью 17,6-20,8 кв. м. -1 этаж.
+600 000 руб. - парковочное место площадью 13,8 кв. м. 1 этаж.
+650 000 руб. - парковочное место площадью 17,6-20,2 кв. м. 1 этаж.
+
+
+------------------
+class: Коммерция
+
+apart_name: ЖК «Novella», Литер 6, ул. Питерская 40, 4 квартал 2023
+
+  apart_spec: Все типы помещений
+    apart_floor: 1
+    apart_price: 180 000
+    
+    apart_floor: 2
+    apart_price: 150 000
+    
+    apart_floor: 3
+    apart_price: 140 000
+    
+
+apart_name: ЖК «Смородина», Литер 1, 1 квартал 2023, Застройщик ООО «АЛЬФА»
+
+  apart_spec: Площадь от 39,4 до 58,8 кв. м
+    apart_floor: 1
+    apart_price: 165 000
+    
+
+apart_name: ЖК «Смородина», Литер 2. 4 квартал 2023, Застройщик ООО «АЛЬФА»
+
+  apart_spec: Площадь от 39,4 до 58,8 кв. м
+    apart_floor: 1
+    apart_price: 155 000
+
+
+apart_name: ЖК «AVrorA», 3 квартал 2022, Застройщик ООО «АльфаСтройКомплекс»
+
+  apart_spec: Помещение №1, №6
+    apart_floor: 1
+    apart_price: 340 000
+
+  apart_spec: Помещение №2, №7, №10, №11
+    apart_floor: 1
+    apart_price: 380 000
+
+
+  apart_spec: Помещение №13, №9
+    apart_floor: 1
+    apart_price: 370 000
+
+
+  apart_spec: Помещение (18,22-45,3 м2)
+    apart_floor: 2
+    apart_price: 250 000
+
+
+  apart_spec: Помещение (47,57-90,9 м2)
+    apart_floor: 2
+    apart_price: 240 000
+
+
+  apart_spec: Помещение (112,93-145,54 м2)
+    apart_floor: 2
+    apart_price: 230 000
+
+
+apart_name: ЖК «Дом на Лаврова», ул. Лаврова, 91, дом сдан
+
+  apart_spec: Коммерция (25,5-76,9 м2)
+    apart_floor: 1
+    apart_price: 70 000
+
+
+apart_name: ЖК «Дом на Кирова», ул. Кирова, 199, дом сдан
+
+  apart_spec: Площадь от 14,3 до 45,5
+    apart_floor: подвал
+    apart_price: 50 000
+
+
+apart_name: ЖК «Маршал», Литер 1 и 2, ул. Гаражная, 87, 1 квартал 2021
+
+  apart_spec: Коммерция в Литер 1 и 2
+    apart_floor: подвал
+    apart_price: 80 000
+		
+    apart_floor: 1
+    apart_price: 180 000
+
+
+apart_name: ЖК «Маршал», Литер 5, ул. Гаражная, 87, 1 квартал 2021 (отдельно стоящее здание)
+
+  apart_spec: От 65,5 до 121,2
+    apart_floor: 4,5
+    apart_price: 150 000
+
+
+apart_name: ЖК «Fresh», Литер 1, ул. В. Гассия 4/7, дом сдан
+
+  apart_spec: Площадь от 13,3 до 43
+    apart_floor: 1
+    apart_price: 60 000
+
+
+apart_name: ЖК «Fresh», Литер 2, ул. В. Гассия 4/7, 3 квартал 2022, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»
+
+  apart_spec: Все типы помещений
+    apart_floor: 1
+    apart_price: 135 000
+		
+  apart_spec: Помещение (20,5-76,5 м2)
+    apart_floor: 2
+    apart_price: 340 000
+		
+  apart_spec: Помещение (97,2-127,7 м2)
+    apart_floor: 2
+    apart_price: 340 000
+
+
+apart_name: ЖК «Fresh», Литер 3, ул. В. Гассия 4/7, 2 квартал 2023, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»
+
+  apart_spec: Все типы помещений
+    apart_floor: 1
+    apart_price: 125 000
+
+  apart_spec: Помещение (28,9-65,9 м2)
+    apart_floor: 2
+    apart_price: 70 000
+
+  apart_spec: Помещение (127,7 м2)
+    apart_floor: 2
+    apart_price: 65 000
+
+apart_name: ЖК «Fresh», Литер 4, ул. В. Гассия 4/7, 3 квартал 2024, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»
+
+  apart_spec: Все типы помещений
+    apart_floor: 1
+    apart_price: 125 000
+		
+  apart_spec: Все типы помещений
+    apart_floor: 2
+    apart_price: 75 000
+
+
+apart_name: ЖК «Спортивный парк», Литер 13, ул. Войсковая 4, 1 квартал 2022. Застройщик ООО «АЛЬФА»
+
+  apart_spec: Коммерция
+    apart_floor: цоколь
+    apart_price: 60 000
+
+
+apart_name: ЖК «Спортивный парк», Литер 10, ул. Войсковая 4, 3 квартал 2022. Застройщик ООО «АЛЬФА»
+
+  apart_spec: Коммерция
+    apart_floor: цоколь
+    apart_price: 60 000
+
+
+apart_name: ЖК «Спортивный парк», Литер 7, ул. Войсковая 4, 2 квартал 2022. Застройщик ООО «АЛЬФА»
+
+  apart_spec: Коммерция
+    apart_floor: цоколь
+    apart_price: 60 000
+
+
+
+
+
+------------------
+
+apart_name: ЖК «URAL», 4 квартал 2024, Застройщик ООО «СЗ ВЕРТИКАЛЬ»
+
+
+apart_name: ЖК «URAL», блок-секция 1
+
+  apart_spec: лот 160,39 кв. м (строгое назначение - кабинет врача общей практики)
+    apart_floor: 1
+    apart_price: 180 000
+
+  apart_spec: лоты 56,33 и 63,65 кв. м
+    apart_floor: 2
+    apart_price: 250 000
+
+  apart_spec: лот 186,76 кв. м
+    apart_floor: 2
+    apart_price: 220 000
+
+
+apart_name: ЖК «URAL», блок-секция 2
+
+  apart_spec: лот 45,03 кв. м (строгое назначение - опорный пункт полиции)
+    apart_floor: 1
+    apart_price: не продается
+
+  apart_spec: лот 55,25 кв. м
+    apart_floor: 2
+    apart_price: 250 000
+
+  apart_spec: лот 158,82 кв. м
+    apart_floor: 2
+    apart_price: 220 000
+
+
+apart_name: ЖК «URAL», блок-секция 3
+
+  apart_spec: лот 97,53 кв. м
+    apart_floor: 2
+    apart_price: 230 000
+
+  apart_spec: лоты 133,31 и 145,67 кв. м
+    apart_floor: 2
+    apart_price: 220 000
+
+
+apart_name: ЖК «URAL», блок-секция 10
+
+  apart_spec: лот 95,47 кв. м
+    apart_floor: 2
+    apart_price: 230 000
+
+  apart_spec: лоты 133,31 и 146,59 кв. м
+    apart_floor: 2
+    apart_price: 220 000
+
+
+apart_name: ЖК «URAL», блок-секция 11
+
+  apart_spec: лот 59,07 кв. м
+    apart_floor: 2
+    apart_price: 250 000
+
+  apart_spec: лот 155,02 кв. м
+    apart_floor: 2
+    apart_price: 220 000
+
+
+apart_name: ЖК «URAL», блок-секция 12
+
+  apart_spec: лот 160,78 кв. м
+    apart_floor: 1
+    apart_price: 180 000
+
+  apart_spec: лоты 56,33 и 63,65 кв. м
+    apart_floor: 2
+    apart_price: 250 000
+
+  apart_spec: лот 186,75 кв. м
+    apart_floor: 2
+    apart_price: 220 000
+
+------------------

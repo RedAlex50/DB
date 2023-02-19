@@ -1,0 +1,2918 @@
+[
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Смородина»",
+      "apart_img": "images/ЖК_смородина_1.jpg",
+      "spec": [
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "114 000\n",
+          "apart_profit": 12000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Смородина»",
+      "apart_img": "images/ЖК_Смородина_2.jpg",
+      "spec": [
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "106 000\n",
+          "apart_profit": 15000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "АО «The Grand Palace»",
+      "apart_img": "images/The_Grand_Palace.jpg",
+      "spec": [
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "6-15\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 6000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «AVrorA»",
+      "apart_img": "images/ЖК_AVrorA.jpg",
+      "spec": [
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "21-22\n",
+          "apart_price": "231 000\n",
+          "apart_profit": 26000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «URAL»",
+      "apart_img": "images/ЖК_Ural.jpg",
+      "spec": [
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        },
+        {
+          "apart_spec": "3-комн.",
+          "apart_floor": "16-23 этаж\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 13000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Зеленодар»",
+      "apart_img": "images/ЖК_Зеленодар.jpeg",
+      "spec": [
+        {
+          "apart_spec": "2-комн.",
+          "apart_floor": "7 этаж\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 5000
+        },
+        {
+          "apart_spec": "2-комн.",
+          "apart_floor": "7 этаж\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 5000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Зеленодар»",
+      "apart_img": "images/ЖК_Зеленодар_2.jpg",
+      "spec": [
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "90 000\n",
+          "apart_profit": 14000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Зеленодар»",
+      "apart_img": "images/ЖК_Зеленодар.jpeg",
+      "spec": [
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "13-16\n",
+          "apart_price": "95 000\n",
+          "apart_profit": 11000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Зеленодар»",
+      "apart_img": "images/ЖК_Зеленодар_2.jpg",
+      "spec": [
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "10-14\n",
+          "apart_price": "105 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "10-14\n",
+          "apart_price": "105 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "10-14\n",
+          "apart_price": "105 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "10-14\n",
+          "apart_price": "105 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "10-14\n",
+          "apart_price": "105 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "10-14\n",
+          "apart_price": "105 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "10-14\n",
+          "apart_price": "105 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "10-14\n",
+          "apart_price": "105 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "10-14\n",
+          "apart_price": "105 000\n",
+          "apart_profit": 11000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Fresh»",
+      "apart_img": "images/ЖК_Fresh.jpeg",
+      "spec": [
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "19-24\n",
+          "apart_price": "107 100\n",
+          "apart_profit": 10000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Fresh»",
+      "apart_img": "images/ЖК_Fresh_2.jpg",
+      "spec": [
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "91 000\n",
+          "apart_profit": 9000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Fresh»",
+      "apart_img": "images/ЖК_Fresh_3.jpg",
+      "spec": [
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "20-24\n",
+          "apart_price": "86 000\n",
+          "apart_profit": 11000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Novella»",
+      "apart_img": "images/ЖК_Novella.jpeg",
+      "spec": [
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "120 000\n",
+          "apart_profit": 10000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Novella»",
+      "apart_img": "images/ЖК_Novella_2.jpg",
+      "spec": [
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "3 к. кв.",
+          "apart_floor": "16-19\n",
+          "apart_price": "111 000\n",
+          "apart_profit": 9000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Спортивный парк»",
+      "apart_img": "images/ЖК_Спортивный_парк.jpeg",
+      "spec": [
+        {
+          "apart_spec": "1 к. кв.",
+          "apart_floor": "1-8\n",
+          "apart_price": "98 000\n",
+          "apart_profit": 14000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Спортивный парк»",
+      "apart_img": "images/ЖК_Спортивный_парк_2.jpg",
+      "spec": [
+        {
+          "apart_spec": "1 к. кв.",
+          "apart_floor": "1-8\n",
+          "apart_price": "109000\n",
+          "apart_profit": 10898000
+        },
+        {
+          "apart_spec": "1 к. кв.",
+          "apart_floor": "1-8\n",
+          "apart_price": "109000\n",
+          "apart_profit": 10898000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Спортивный парк»",
+      "apart_img": "images/ЖК_Спортивный_парк_3.jpg",
+      "spec": [
+        {
+          "apart_spec": "1 к. кв.",
+          "apart_floor": "2-7\n",
+          "apart_price": "94000\n",
+          "apart_profit": 9403000
+        },
+        {
+          "apart_spec": "1 к. кв.",
+          "apart_floor": "2-7\n",
+          "apart_price": "94000\n",
+          "apart_profit": 9403000
+        },
+        {
+          "apart_spec": "1 к. кв.",
+          "apart_floor": "2-7\n",
+          "apart_price": "94000\n",
+          "apart_profit": 9403000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Спортивный парк»",
+      "apart_img": "images/ЖК_Спортивный_парк_4.jpg",
+      "spec": [
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "1-8\n",
+          "apart_price": "92000\n",
+          "apart_profit": 9200000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "1-8\n",
+          "apart_price": "92000\n",
+          "apart_profit": 9200000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Role Clef»",
+      "apart_img": "images/ЖК_Role_Clef.jpg",
+      "spec": [
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "-1\n",
+          "apart_price": "300 000\n",
+          "apart_profit": 28000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "-1\n",
+          "apart_price": "300 000\n",
+          "apart_profit": 28000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "-1\n",
+          "apart_price": "300 000\n",
+          "apart_profit": 28000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "-1\n",
+          "apart_price": "300 000\n",
+          "apart_profit": 28000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "-1\n",
+          "apart_price": "300 000\n",
+          "apart_profit": 28000
+        },
+        {
+          "apart_spec": "Кладовые помещения",
+          "apart_floor": "-1\n",
+          "apart_price": "300 000\n",
+          "apart_profit": 28000
+        }
+      ]
+    }
+  },
+  {
+    "category": "apartment",
+    "apartment_info": {
+      "apart_name": "ЖК «Дом на Лаврова»",
+      "apart_img": "images/ЖК_Дом_на_Лаврова.jpg",
+      "spec": [
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "1-5\n",
+          "apart_price": "69 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "1-5\n",
+          "apart_price": "69 000\n",
+          "apart_profit": 9000
+        },
+        {
+          "apart_spec": "2 к. кв.",
+          "apart_floor": "1-5\n",
+          "apart_price": "69 000\n",
+          "apart_profit": 9000
+        }
+      ]
+    }
+  },
+  {
+    "category": "cottege",
+    "apartment_info": {
+      "apart_name": "СНТ «Фанагорийская усадьба»",
+      "apart_img": "",
+      "spec": [
+        {
+          "apart_spec": "З/у по ул. Речная 93, 95",
+          "apart_floor": "участок\n",
+          "apart_price": "3 000 000\n",
+          "apart_profit": 5000
+        },
+        {
+          "apart_spec": "З/у по ул. Речная 93, 95",
+          "apart_floor": "участок\n",
+          "apart_price": "3 000 000\n",
+          "apart_profit": 5000
+        },
+        {
+          "apart_spec": "З/у по ул. Речная 93, 95",
+          "apart_floor": "участок\n",
+          "apart_price": "3 000 000\n",
+          "apart_profit": 5000
+        },
+        {
+          "apart_spec": "З/у по ул. Речная 93, 95",
+          "apart_floor": "участок\n",
+          "apart_price": "3 000 000\n",
+          "apart_profit": 5000
+        },
+        {
+          "apart_spec": "З/у по ул. Речная 93, 95",
+          "apart_floor": "участок\n",
+          "apart_price": "3 000 000\n",
+          "apart_profit": 5000
+        },
+        {
+          "apart_spec": "З/у по ул. Речная 93, 95",
+          "apart_floor": "участок\n",
+          "apart_price": "3 000 000\n",
+          "apart_profit": 5000
+        }
+      ]
+    }
+  },
+  {
+    "category": "cottege",
+    "apartment_info": {
+      "apart_name": "Земельные участки проекта «Белая дача",
+      "apart_img": "",
+      "spec": [
+        {
+          "apart_spec": "Земельный участок с к/н 23:43:0415001:3028; ул.",
+          "apart_floor": "участок\n",
+          "apart_price": "15 000 000\n",
+          "apart_profit": 1000
+        }
+      ]
+    }
+  },
+  {
+    "category": "parking",
+    "apartment_info": {
+      "apart_name": "Парковки",
+      "apart_img": "",
+      "spec": [
+        {
+          "apart_spec": "ЖК «URAL», блок-секция 1-5",
+          "apart_floor": "",
+          "apart_price": "500 000 руб. - парковочное место площадью 13,8-13,9 кв. м. -1 этаж.\n",
+          "apart_profit": 53000
+        },
+        {
+          "apart_spec": "ЖК «URAL», блок-секция 1-5",
+          "apart_floor": "",
+          "apart_price": "500 000 руб. - парковочное место площадью 13,8-13,9 кв. м. -1 этаж.\n",
+          "apart_profit": 53000
+        },
+        {
+          "apart_spec": "ЖК «URAL», блок-секция 1-5",
+          "apart_floor": "",
+          "apart_price": "500 000 руб. - парковочное место площадью 13,8-13,9 кв. м. -1 этаж.\n",
+          "apart_profit": 53000
+        },
+        {
+          "apart_spec": "ЖК «URAL», блок-секция 1-5",
+          "apart_floor": "",
+          "apart_price": "500 000 руб. - парковочное место площадью 13,8-13,9 кв. м. -1 этаж.\n",
+          "apart_profit": 53000
+        },
+        {
+          "apart_spec": "ЖК «URAL», блок-секция 1-5",
+          "apart_floor": "",
+          "apart_price": "500 000 руб. - парковочное место площадью 13,8-13,9 кв. м. -1 этаж.\n",
+          "apart_profit": 53000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Novella»",
+      "apart_img": "images/жк_новелла_ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "Все типы помещений",
+          "apart_floor": "3\n",
+          "apart_price": "140 000\n",
+          "apart_profit": 16000
+        },
+        {
+          "apart_spec": "Все типы помещений",
+          "apart_floor": "3\n",
+          "apart_price": "140 000\n",
+          "apart_profit": 16000
+        },
+        {
+          "apart_spec": "Все типы помещений",
+          "apart_floor": "3\n",
+          "apart_price": "140 000\n",
+          "apart_profit": 16000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Смородина»",
+      "apart_img": "images/zhk-smorodina-kom.jpg",
+      "spec": [
+        {
+          "apart_spec": "Площадь от 39,4 до 58,8 кв. м",
+          "apart_floor": "1\n",
+          "apart_price": "165 000\n",
+          "apart_profit": 17000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Смородина»",
+      "apart_img": "images/zhk-smorodina-kom.jpg",
+      "spec": [
+        {
+          "apart_spec": "Площадь от 39,4 до 58,8 кв. м",
+          "apart_floor": "1\n",
+          "apart_price": "155 000\n",
+          "apart_profit": 17000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «AVrorA»",
+      "apart_img": "images/жк_аврора_ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "Помещение",
+          "apart_floor": "2\n",
+          "apart_price": "230 000\n",
+          "apart_profit": 20000
+        },
+        {
+          "apart_spec": "Помещение",
+          "apart_floor": "2\n",
+          "apart_price": "230 000\n",
+          "apart_profit": 20000
+        },
+        {
+          "apart_spec": "Помещение",
+          "apart_floor": "2\n",
+          "apart_price": "230 000\n",
+          "apart_profit": 20000
+        },
+        {
+          "apart_spec": "Помещение",
+          "apart_floor": "2\n",
+          "apart_price": "230 000\n",
+          "apart_profit": 20000
+        },
+        {
+          "apart_spec": "Помещение",
+          "apart_floor": "2\n",
+          "apart_price": "230 000\n",
+          "apart_profit": 20000
+        },
+        {
+          "apart_spec": "Помещение",
+          "apart_floor": "2\n",
+          "apart_price": "230 000\n",
+          "apart_profit": 20000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Дом на Лаврова»",
+      "apart_img": "images/ЖК_Дом_на_Лаврова_ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "Коммерция (25,5-76,9 м2)",
+          "apart_floor": "1\n",
+          "apart_price": "70 000\n",
+          "apart_profit": 11000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Дом на Кирова»",
+      "apart_img": "images/ЖК_Дом_на_Кирова_ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "Площадь от 14,3 до 45,5",
+          "apart_floor": "подвал\n",
+          "apart_price": "50 000\n",
+          "apart_profit": 2000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Маршал»",
+      "apart_img": "images/ЖК _Маршал_ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "Коммерция в Литер 1 и 2",
+          "apart_floor": "1\n",
+          "apart_price": "180 000\n",
+          "apart_profit": 23000
+        },
+        {
+          "apart_spec": "Коммерция в Литер 1 и 2",
+          "apart_floor": "1\n",
+          "apart_price": "180 000\n",
+          "apart_profit": 23000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Маршал»",
+      "apart_img": "images/ЖК _Маршал_ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "От 65,5 до 121,2",
+          "apart_floor": "4,5\n",
+          "apart_price": "150 000\n",
+          "apart_profit": 20000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Fresh»",
+      "apart_img": "images/ЖК-Fresh-ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "Площадь от 13,3 до 43",
+          "apart_floor": "1\n",
+          "apart_price": "60 000\n",
+          "apart_profit": 11000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Fresh»",
+      "apart_img": "images/ЖК-Fresh-ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "Помещение",
+          "apart_floor": "2\n",
+          "apart_price": "340 000\n",
+          "apart_profit": 35000
+        },
+        {
+          "apart_spec": "Помещение",
+          "apart_floor": "2\n",
+          "apart_price": "340 000\n",
+          "apart_profit": 35000
+        },
+        {
+          "apart_spec": "Помещение",
+          "apart_floor": "2\n",
+          "apart_price": "340 000\n",
+          "apart_profit": 35000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Fresh»",
+      "apart_img": "images/ЖК-Fresh-ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "Помещение",
+          "apart_floor": "2\n",
+          "apart_price": "65 000\n",
+          "apart_profit": 3000
+        },
+        {
+          "apart_spec": "Помещение",
+          "apart_floor": "2\n",
+          "apart_price": "65 000\n",
+          "apart_profit": 3000
+        },
+        {
+          "apart_spec": "Помещение",
+          "apart_floor": "2\n",
+          "apart_price": "65 000\n",
+          "apart_profit": 3000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Fresh»",
+      "apart_img": "images/ЖК-Fresh-ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "Все типы помещений",
+          "apart_floor": "2\n",
+          "apart_price": "75 000\n",
+          "apart_profit": 8000
+        },
+        {
+          "apart_spec": "Все типы помещений",
+          "apart_floor": "2\n",
+          "apart_price": "75 000\n",
+          "apart_profit": 8000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Спортивный парк»",
+      "apart_img": "images/ЖК_Спортивный_парк_ком1.jpg",
+      "spec": [
+        {
+          "apart_spec": "Коммерция",
+          "apart_floor": "цоколь\n",
+          "apart_price": "60 000\n",
+          "apart_profit": 1000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Спортивный парк»",
+      "apart_img": "images/ЖК_Спортивный_парк_ком2.jpeg",
+      "spec": [
+        {
+          "apart_spec": "Коммерция",
+          "apart_floor": "цоколь\n",
+          "apart_price": "60 000\n",
+          "apart_profit": 5000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «Спортивный парк»",
+      "apart_img": "images/ЖК_Спортивный_парк_ком3.jpg",
+      "spec": [
+        {
+          "apart_spec": "Коммерция",
+          "apart_floor": "цоколь\n",
+          "apart_price": "60 000\n",
+          "apart_profit": 10000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «URAL»",
+      "apart_img": "images/ЖК_URAL_ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "лот 186,76 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 18000
+        },
+        {
+          "apart_spec": "лот 186,76 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 18000
+        },
+        {
+          "apart_spec": "лот 186,76 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 18000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «URAL»",
+      "apart_img": "images/ЖК_URAL_ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "лот 158,82 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 27000
+        },
+        {
+          "apart_spec": "лот 158,82 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 27000
+        },
+        {
+          "apart_spec": "лот 158,82 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 27000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «URAL»",
+      "apart_img": "images/ЖК_URAL_ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "лоты 133,31 и 145,67 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 27000
+        },
+        {
+          "apart_spec": "лоты 133,31 и 145,67 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 27000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «URAL»",
+      "apart_img": "images/ЖК_URAL_ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "лоты 133,31 и 146,59 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 20000
+        },
+        {
+          "apart_spec": "лоты 133,31 и 146,59 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 20000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «URAL»",
+      "apart_img": "images/ЖК_URAL_ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "лот 155,02 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 22000
+        },
+        {
+          "apart_spec": "лот 155,02 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 22000
+        }
+      ]
+    }
+  },
+  {
+    "category": "commercial",
+    "apartment_info": {
+      "apart_name": "ЖК «URAL»",
+      "apart_img": "images/ЖК_URAL_ком.jpg",
+      "spec": [
+        {
+          "apart_spec": "лот 186,75 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 22000
+        },
+        {
+          "apart_spec": "лот 186,75 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 22000
+        },
+        {
+          "apart_spec": "лот 186,75 кв. м",
+          "apart_floor": "2\n",
+          "apart_price": "220 000\n",
+          "apart_profit": 22000
+        }
+      ]
+    }
+  }
+]

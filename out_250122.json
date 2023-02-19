@@ -1,0 +1,2905 @@
+{
+  "apartment": [
+    {
+      "apart_name": "ЖК «Смородина», Литер 1,5. 1 квартал 2023, Застройщик ООО «АЛЬФА»\n",
+      "specs": [
+        {
+          "apart_spec": "1 к. кв. (35,2 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-4\n",
+              "apart_price": "117 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "118 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "119 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "120 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "1-3\n",
+              "apart_price": "100 000\n"
+            },
+            {
+              "apart_floor": "4\n",
+              "apart_price": "101 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "102 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "103 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "103 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Смородина», Литер 2,3,4. 4 квартал 2023, Застройщик ООО «АЛЬФА»\n",
+      "specs": [
+        {
+          "apart_spec": "1-4\n",
+          "floors": [
+            {
+              "apart_floor": "114 000\n",
+              "apart_price": "ЖК «Смородина», Литер 2,3,4. 4 квартал 2023, Застройщик ООО «АЛЬФА»\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "115 000\n",
+          "floors": [
+            {
+              "apart_floor": "114 000\n",
+              "apart_price": "9-12\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "117 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-4\n",
+          "floors": [
+            {
+              "apart_floor": "113 000\n",
+              "apart_price": "117 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "114 000\n",
+          "floors": [
+            {
+              "apart_floor": "113 000\n",
+              "apart_price": "9-12\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "116 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-4\n",
+          "floors": [
+            {
+              "apart_floor": "96 000\n",
+              "apart_price": "116 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "97 000\n",
+          "floors": [
+            {
+              "apart_floor": "96 000\n",
+              "apart_price": "9-12\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "99 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-4\n",
+          "floors": [
+            {
+              "apart_floor": "93 000\n",
+              "apart_price": "99 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "94 000\n",
+          "floors": [
+            {
+              "apart_floor": "93 000\n",
+              "apart_price": "9-12\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "96 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-4\n",
+          "floors": [
+            {
+              "apart_floor": "95 000\n",
+              "apart_price": "96 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "96 000\n",
+          "floors": [
+            {
+              "apart_floor": "95 000\n",
+              "apart_price": "9-12\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "98 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "АО «The Grand Palace», 2 квартал 2022, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ»\n",
+      "specs": [
+        {
+          "apart_spec": "1-комн. лоты 21,5-25,7 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "6-7\n",
+              "apart_price": "225 000\n"
+            },
+            {
+              "apart_floor": "8-9\n",
+              "apart_price": "236 000\n"
+            },
+            {
+              "apart_floor": "10-11\n",
+              "apart_price": "248 000\n"
+            },
+            {
+              "apart_floor": "12-13\n",
+              "apart_price": "259 000\n"
+            },
+            {
+              "apart_floor": "14-15\n",
+              "apart_price": "270 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-комн. лоты 26,1-32,4 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "6-7\n",
+              "apart_price": "209 000\n"
+            },
+            {
+              "apart_floor": "8-9\n",
+              "apart_price": "220 000\n"
+            },
+            {
+              "apart_floor": "10-11\n",
+              "apart_price": "230 000\n"
+            },
+            {
+              "apart_floor": "12-13\n",
+              "apart_price": "241 000\n"
+            },
+            {
+              "apart_floor": "14-15\n",
+              "apart_price": "251 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2-комн. лоты 42,1-46,8 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "6-7\n",
+              "apart_price": "162 000\n"
+            },
+            {
+              "apart_floor": "8-9\n",
+              "apart_price": "170 000\n"
+            },
+            {
+              "apart_floor": "10-11\n",
+              "apart_price": "178 000\n"
+            },
+            {
+              "apart_floor": "12-13\n",
+              "apart_price": "186 000\n"
+            },
+            {
+              "apart_floor": "14-15\n",
+              "apart_price": "194 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2-комн. лоты 47,2-59,1 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "6-7\n",
+              "apart_price": "145 000\n"
+            },
+            {
+              "apart_floor": "8-9\n",
+              "apart_price": "153 000\n"
+            },
+            {
+              "apart_floor": "10-11\n",
+              "apart_price": "161 000\n"
+            },
+            {
+              "apart_floor": "12-13\n",
+              "apart_price": "169 000\n"
+            },
+            {
+              "apart_floor": "14-15\n",
+              "apart_price": "176 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2-комн. лоты 64,9-70,8 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "6-7\n",
+              "apart_price": "136 000\n"
+            },
+            {
+              "apart_floor": "8-9\n",
+              "apart_price": "144 000\n"
+            },
+            {
+              "apart_floor": "10-11\n",
+              "apart_price": "151 000\n"
+            },
+            {
+              "apart_floor": "12-13\n",
+              "apart_price": "158 000\n"
+            },
+            {
+              "apart_floor": "14-15\n",
+              "apart_price": "166 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3-комн. лоты 64,4-64,5 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "6-7\n",
+              "apart_price": "158 000\n"
+            },
+            {
+              "apart_floor": "8-9\n",
+              "apart_price": "165 000\n"
+            },
+            {
+              "apart_floor": "10-11\n",
+              "apart_price": "173 000\n"
+            },
+            {
+              "apart_floor": "12-13\n",
+              "apart_price": "181 000\n"
+            },
+            {
+              "apart_floor": "14-15\n",
+              "apart_price": "189 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3-комн. лоты 75,6 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "6-7\n",
+              "apart_price": "164 000\n"
+            },
+            {
+              "apart_floor": "8-9\n",
+              "apart_price": "172 000\n"
+            },
+            {
+              "apart_floor": "10-11\n",
+              "apart_price": "181 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Наценка на апартаменты с балконами (12-15 этаж) 1-комн.\n",
+          "floors": [
+            {
+              "apart_floor": "12-15\n",
+              "apart_price": "+ 5 000 руб./кв. м.\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Наценка на апартаменты с балконами (12-15 этаж) 2-комн.\n",
+          "floors": [
+            {
+              "apart_floor": "12-15\n",
+              "apart_price": "+ 3 000 руб./кв. м.\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Кладовые помещения\n",
+          "floors": [
+            {
+              "apart_floor": "6-15\n",
+              "apart_price": "70 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «AVrorA», 3 квартал 2022, Застройщик ООО «АльфаСтройКомплекс»\n",
+      "specs": [
+        {
+          "apart_spec": "1-комн. лоты 44,44-44,54 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "187 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-комн. лоты 46,04-48,26 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "1-4\n",
+              "apart_price": "194 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "199 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "203 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "207 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-комн. лот 49,51 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "178 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-комн. лоты 51,01-51,47 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "179 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "184 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "187 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "190 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-комн. лот 52,11 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "183 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-комн. лоты 52,62-54,04 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "1-4\n",
+              "apart_price": "186 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "192 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "195 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "198 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-комн. лоты 62,39 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "167 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "172 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "175 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "178 000\n"
+            },
+            {
+              "apart_floor": "17-22\n",
+              "apart_price": "183 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2-комн. лот 67,53 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "179 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2-комн. лоты 69,09-71,71 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "1-4\n",
+              "apart_price": "185 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "190 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "193 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "196 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2-комн. лот 80,72 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "156 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2-комн. лоты 85,52-86,15 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "159 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "163 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "165 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "168 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3-комн. лоты 120,48 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "3\n",
+              "apart_price": "152 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3-комн. лоты 123,13-123,48 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "155 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "158 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "160 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "162 000\n"
+            },
+            {
+              "apart_floor": "17-20\n",
+              "apart_price": "165 500\n"
+            },
+            {
+              "apart_floor": "21-22\n",
+              "apart_price": "169 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3-комн. лоты 127,09 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "187 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "190 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "192 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "194 000\n"
+            },
+            {
+              "apart_floor": "17-20\n",
+              "apart_price": "198 000\n"
+            },
+            {
+              "apart_floor": "21-22\n",
+              "apart_price": "201 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «URAL», 4 квартал 2024, Застройщик ООО «СЗ ВЕРТИКАЛЬ»\n",
+      "specs": []
+    },
+    {
+      "apart_name": "ЖК «URAL», блок-секция 1, 3, 10 и 12 (черновая отделка)\n",
+      "specs": [
+        {
+          "apart_spec": "Студия (23,02-27,56 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6 этаж\n",
+              "apart_price": "129 000\n"
+            },
+            {
+              "apart_floor": "7-15 этаж\n",
+              "apart_price": "139 000\n"
+            },
+            {
+              "apart_floor": "16-23 этаж\n",
+              "apart_price": "149 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-комн. (35,13-37,26 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6 этаж\n",
+              "apart_price": "116 000\n"
+            },
+            {
+              "apart_floor": "7-15 этаж\n",
+              "apart_price": "121 000\n"
+            },
+            {
+              "apart_floor": "16-23 этаж\n",
+              "apart_price": "126 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1-комн. (45,43-49,05 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6 этаж\n",
+              "apart_price": "101 000\n"
+            },
+            {
+              "apart_floor": "7-15 этаж\n",
+              "apart_price": "106 000\n"
+            },
+            {
+              "apart_floor": "16-23 этаж\n",
+              "apart_price": "111 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2-комн. (60,06-61,7 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6 этаж\n",
+              "apart_price": "96 000\n"
+            },
+            {
+              "apart_floor": "7-15 этаж\n",
+              "apart_price": "101 000\n"
+            },
+            {
+              "apart_floor": "16-23 этаж\n",
+              "apart_price": "106 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3-комн. (77,34 - 79,14 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6 этаж\n",
+              "apart_price": "85 000\n"
+            },
+            {
+              "apart_floor": "7-15 этаж\n",
+              "apart_price": "88 000\n"
+            },
+            {
+              "apart_floor": "16-23 этаж\n",
+              "apart_price": "93 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3-комн. (90,91-92,68 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6 этаж\n",
+              "apart_price": "81 000\n"
+            },
+            {
+              "apart_floor": "7-15 этаж\n",
+              "apart_price": "87 000\n"
+            },
+            {
+              "apart_floor": "16-23 этаж\n",
+              "apart_price": "91 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Зеленодар», литер 1, ул. 3-я Трудовая 1/3, 4 квартал 2021. Застройщик ООО «Модо Капитал», Правообладатель ООО «Капитал»\n",
+      "specs": [
+        {
+          "apart_spec": "1 к. кв. (24,8-29 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "106 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "107 000\n"
+            },
+            {
+              "apart_floor": "13-14\n",
+              "apart_price": "110 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (30,5-31,6 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "105 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "106 000\n"
+            },
+            {
+              "apart_floor": "13-14\n",
+              "apart_price": "109 000 \n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (32,8-34,1 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "103 000\n"
+            },
+            {
+              "apart_floor": "3-8\n",
+              "apart_price": "104 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "105 000\n"
+            },
+            {
+              "apart_floor": "13-14\n",
+              "apart_price": "108 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (34,3-36,9 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "101 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "102 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "103 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "104 000\n"
+            },
+            {
+              "apart_floor": "13-14\n",
+              "apart_price": "107 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "83 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "84 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "85 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "86 000\n"
+            },
+            {
+              "apart_floor": "13-14\n",
+              "apart_price": "87 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "74 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "75 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "79 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "77 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. №119\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "98 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. №121\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "98 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. №122\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "98 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. №265\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "98 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Зеленодар», литер 4А, ул. 3-я Трудовая 1/5, 2 квартал 2023. Застройщик ООО «Модо Капитал»\n",
+      "specs": [
+        {
+          "apart_spec": "1 к. кв. (38,4-42,3 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "96 000\n"
+            },
+            {
+              "apart_floor": "2-4\n",
+              "apart_price": "98 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "100 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "102 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "104 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2к. кв. (70,3 - 71,8 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "80 000\n"
+            },
+            {
+              "apart_floor": "2-4\n",
+              "apart_price": "81 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "82 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "83 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "84 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3 к. кв. (91,2 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "2-4\n",
+              "apart_price": "74 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "75 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "76 000\n"
+            },
+            {
+              "apart_floor": "13-16\n",
+              "apart_price": "77 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Fresh», Литер 1, ул. В. Гассия 4/7, дом сдан. Правообладатель ООО «Сервис-Юг», ООО «Капитал» Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»\n",
+      "specs": [
+        {
+          "apart_spec": "3 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "3-18\n",
+              "apart_price": "80 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Fresh», Литер 2, ул. В. Гассия 4/7, 3 квартал 2022, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»\n",
+      "specs": [
+        {
+          "apart_spec": "1 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "3-9\n",
+              "apart_price": "116 000\n"
+            },
+            {
+              "apart_floor": "10-18\n",
+              "apart_price": "118 000\n"
+            },
+            {
+              "apart_floor": "19-24\n",
+              "apart_price": "119 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "3-9\n",
+              "apart_price": "89 000\n"
+            },
+            {
+              "apart_floor": "10-18\n",
+              "apart_price": "91 000\n"
+            },
+            {
+              "apart_floor": "19-24\n",
+              "apart_price": "92 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3 к. кв. (88,8 кв.м.)\n",
+          "floors": [
+            {
+              "apart_floor": "3-9\n",
+              "apart_price": "85 000\n"
+            },
+            {
+              "apart_floor": "10-18\n",
+              "apart_price": "86 000\n"
+            },
+            {
+              "apart_floor": "19-24\n",
+              "apart_price": "87 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3 к. кв. (95,7-96,9 кв.м.)\n",
+          "floors": [
+            {
+              "apart_floor": "3-9\n",
+              "apart_price": "75 000\n"
+            },
+            {
+              "apart_floor": "10-18\n",
+              "apart_price": "76 000\n"
+            },
+            {
+              "apart_floor": "19-24\n",
+              "apart_price": "77 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3 к. кв. (97,8 кв.м.)\n",
+          "floors": [
+            {
+              "apart_floor": "3-9\n",
+              "apart_price": "72 000\n"
+            },
+            {
+              "apart_floor": "10-18\n",
+              "apart_price": "73 000\n"
+            },
+            {
+              "apart_floor": "19-24\n",
+              "apart_price": "74 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3 к. кв. (104,2 кв.м.)\n",
+          "floors": [
+            {
+              "apart_floor": "3-9\n",
+              "apart_price": "84 000\n"
+            },
+            {
+              "apart_floor": "10-18\n",
+              "apart_price": "85 000\n"
+            },
+            {
+              "apart_floor": "19-24\n",
+              "apart_price": "86 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Fresh», Литер 3, ул. В. Гассия 4/7, 2 квартал 2023, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»\n",
+      "specs": [
+        {
+          "apart_spec": "1 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "3-6\n",
+              "apart_price": "112 000\n"
+            },
+            {
+              "apart_floor": "7-10\n",
+              "apart_price": "114 000\n"
+            },
+            {
+              "apart_floor": "11-16\n",
+              "apart_price": "115 000\n"
+            },
+            {
+              "apart_floor": "17-19\n",
+              "apart_price": "117 000\n"
+            },
+            {
+              "apart_floor": "20-24\n",
+              "apart_price": "118 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "3-6\n",
+              "apart_price": "85 000\n"
+            },
+            {
+              "apart_floor": "7-10\n",
+              "apart_price": "87 000\n"
+            },
+            {
+              "apart_floor": "11-16\n",
+              "apart_price": "88 000\n"
+            },
+            {
+              "apart_floor": "17-19\n",
+              "apart_price": "90 000\n"
+            },
+            {
+              "apart_floor": "20-24\n",
+              "apart_price": "91 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3 к. кв. (97,8 кв. м.)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6\n",
+              "apart_price": "73 000\n"
+            },
+            {
+              "apart_floor": "7-10\n",
+              "apart_price": "74 000\n"
+            },
+            {
+              "apart_floor": "11-16\n",
+              "apart_price": "75 000\n"
+            },
+            {
+              "apart_floor": "17-19\n",
+              "apart_price": "77 000\n"
+            },
+            {
+              "apart_floor": "20-24\n",
+              "apart_price": "78 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Fresh», Литер 4, ул. В. Гассия 4/7, 3 квартал 2024, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»\n",
+      "specs": [
+        {
+          "apart_spec": "1 к. кв., ось 1 (40,5 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6\n",
+              "apart_price": "112 000\n"
+            },
+            {
+              "apart_floor": "7-10\n",
+              "apart_price": "114 000\n"
+            },
+            {
+              "apart_floor": "11-16\n",
+              "apart_price": "115 000\n"
+            },
+            {
+              "apart_floor": "17-19\n",
+              "apart_price": "117 000\n"
+            },
+            {
+              "apart_floor": "20-24\n",
+              "apart_price": "118 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв., оси 4,5 (41,4-43,1 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6\n",
+              "apart_price": "114 000\n"
+            },
+            {
+              "apart_floor": "7-10\n",
+              "apart_price": "116 000\n"
+            },
+            {
+              "apart_floor": "11-16\n",
+              "apart_price": "117 000\n"
+            },
+            {
+              "apart_floor": "17-19\n",
+              "apart_price": "119 000\n"
+            },
+            {
+              "apart_floor": "20-24\n",
+              "apart_price": "120 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв., оси 6,7 (39,8-41,5 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6\n",
+              "apart_price": "116 000\n"
+            },
+            {
+              "apart_floor": "7-10\n",
+              "apart_price": "118 000\n"
+            },
+            {
+              "apart_floor": "11-16\n",
+              "apart_price": "119 000\n"
+            },
+            {
+              "apart_floor": "17-19\n",
+              "apart_price": "121 000\n"
+            },
+            {
+              "apart_floor": "20-24\n",
+              "apart_price": "122 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв. (64,8-65,9 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6\n",
+              "apart_price": "85 000\n"
+            },
+            {
+              "apart_floor": "7-10\n",
+              "apart_price": "87 000\n"
+            },
+            {
+              "apart_floor": "11-16\n",
+              "apart_price": "88 000\n"
+            },
+            {
+              "apart_floor": "17-19\n",
+              "apart_price": "90 000\n"
+            },
+            {
+              "apart_floor": "20-24\n",
+              "apart_price": "91 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. ЕВРО (67,4 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6\n",
+              "apart_price": "99 000\n"
+            },
+            {
+              "apart_floor": "7-10\n",
+              "apart_price": "101 000\n"
+            },
+            {
+              "apart_floor": "11-16\n",
+              "apart_price": "103 000\n"
+            },
+            {
+              "apart_floor": "17-19\n",
+              "apart_price": "106 000\n"
+            },
+            {
+              "apart_floor": "20-24\n",
+              "apart_price": "109 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв. ЕВРО (91,6 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6\n",
+              "apart_price": "73 000\n"
+            },
+            {
+              "apart_floor": "7-10\n",
+              "apart_price": "74 000\n"
+            },
+            {
+              "apart_floor": "11-16\n",
+              "apart_price": "75 000\n"
+            },
+            {
+              "apart_floor": "17-19\n",
+              "apart_price": "77 000\n"
+            },
+            {
+              "apart_floor": "20-24\n",
+              "apart_price": "78 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3 к. кв. (95,4 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "3-6\n",
+              "apart_price": "73 000\n"
+            },
+            {
+              "apart_floor": "7-10\n",
+              "apart_price": "74 000\n"
+            },
+            {
+              "apart_floor": "11-16\n",
+              "apart_price": "75 000\n"
+            },
+            {
+              "apart_floor": "17-19\n",
+              "apart_price": "77 000\n"
+            },
+            {
+              "apart_floor": "20-24\n",
+              "apart_price": "78 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Novella», Литер 1, ул. Питерская 40, 4 квартал 2023. Застройщик ООО «Специализированный застройщик АСК 6»\n",
+      "specs": [
+        {
+          "apart_spec": "1 к. кв. (27,89-32,93 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "138 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "139 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "140 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "141 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "142 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "143 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (34,7-34,92 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "128 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "129 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "130 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "131 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "132 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "133 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (35,54-39,81 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "127 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "128 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "129 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "130 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "131 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "132 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (40,11-44,97 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "126 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "127 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "128 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "129 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "130 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "131 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв. (56,72-59,2 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "102 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "103 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "104 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "105 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "106 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "107 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв. (59,67-64,56 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "101 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "102 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "103 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "104 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "105 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "106 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв. (65,06-66,76 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "100 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "101 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "102 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "103 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "104 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "105 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3 к. кв. (75,37-76,59 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "94 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "95 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "96 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "97 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "98 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "99 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Novella», Литер 4.5.6, ул. Питерская 40, 4 квартал 2023. Застройщик ООО «Специализированный застройщик АСК 6»\n",
+      "specs": [
+        {
+          "apart_spec": "Студия \n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "149 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "150 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "151 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "152 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (34,54-34,84 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "127 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "128 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "129 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "130 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "131 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "132 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (35,09-40 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "126 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "127 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "128 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "129 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "130 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "131 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (40,09-48,24 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "125 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "126 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "127 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "128 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "129 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "130 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв. (50,1-59,3 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "105 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "106 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "107 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "108 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "109 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "110 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв. (59,53-64,72 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "104 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "105 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "106 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "107 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "108 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "109 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв. (64,8-69,34 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "103 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "104 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "105 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "106 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "107 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "108 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3 к. кв. (72-77,32 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-2\n",
+              "apart_price": "89 000\n"
+            },
+            {
+              "apart_floor": "3-4\n",
+              "apart_price": "90 000\n"
+            },
+            {
+              "apart_floor": "5-8\n",
+              "apart_price": "91 000\n"
+            },
+            {
+              "apart_floor": "9-12\n",
+              "apart_price": "92 000\n"
+            },
+            {
+              "apart_floor": "13-15\n",
+              "apart_price": "93 000\n"
+            },
+            {
+              "apart_floor": "16-19\n",
+              "apart_price": "94 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Role Clef», ул. им. Кондратенко Н.И., 8, 2 полугодие 2021 года (Приложение 2) Застройщик ООО «Уютный дом»\n",
+      "specs": [
+        {
+          "apart_spec": "1 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "2-12\n",
+              "apart_price": "300 000 – 400 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "2-12\n",
+              "apart_price": "310 000 – 350 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "3 к. кв. \n",
+          "floors": [
+            {
+              "apart_floor": "2-12\n",
+              "apart_price": "320 000 – 330 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Спортивный парк», Литер 12, ул. Войсковая 4, 1 квартал 2022. Застройщик ООО «АЛЬФА»\n",
+      "specs": [
+        {
+          "apart_spec": "Студия\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "105 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "84 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Спортивный парк», Литер 7, ул. Войсковая 4, 2 квартал 2022. Застройщик ООО «АЛЬФА»\n",
+      "specs": [
+        {
+          "apart_spec": "Студия (22-22,2 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "125 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Студия (25,7-29,4 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "119 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (45,6-45,9 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "87 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (41,2-41,6 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "94 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "80 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Спортивный парк», Литер 8, ул. Войсковая 4, 2 квартал 2022. Застройщик ООО «АЛЬФА»\n",
+      "specs": [
+        {
+          "apart_spec": "Студия\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "108 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (46,7-49,1 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "84 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (50,2-52,5 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1,8\n",
+              "apart_price": "78 000\n"
+            },
+            {
+              "apart_floor": "2-7\n",
+              "apart_price": "80 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Спортивный парк», Литер 10, ул. Войсковая 4, 3 квартал 2022. Застройщик ООО «АЛЬФА»\n",
+      "specs": [
+        {
+          "apart_spec": "Студия (22-22,2 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "125 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Студия (25,7-26,5 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "116 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Студия (28,6-29,4 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "116 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (41,2-41,6 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "93 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (45,6-45,9 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "88 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв.\n",
+          "floors": [
+            {
+              "apart_floor": "1-8\n",
+              "apart_price": "79 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Дом на Лаврова», ул. Лаврова, 91, дом сдан, правообладатель ИП Кукулян Р.А., ИП Кукулян Е.\n",
+      "specs": [
+        {
+          "apart_spec": "Студия (18,2-20,2 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "1-5\n",
+              "apart_price": "103 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Студия (36,4 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "2-5\n",
+              "apart_price": "75 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (34,8 м2) с отделкой\n",
+          "floors": [
+            {
+              "apart_floor": "2-5\n",
+              "apart_price": "80 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (40-40,7 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "1-5\n",
+              "apart_price": "65 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (46,2-46,4 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "2-5\n",
+              "apart_price": "63 500\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "1 к. кв. (47,1 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "2-5\n",
+              "apart_price": "63 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв. (57,1-57,5 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "1-5\n",
+              "apart_price": "61 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2 к. кв. (63,1 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "1-5\n",
+              "apart_price": "69 000\n"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cottege" : [
+    {
+      "apart_name": "СНТ «Фанагорийская усадьба», г. Горячий ключ\n",
+      "specs": [
+        {
+          "apart_spec": "З/у возле реки\n",
+          "floors": [
+            {
+              "apart_floor": "1 сотка\n",
+              "apart_price": "250 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "З/у в центре\n",
+          "floors": [
+            {
+              "apart_floor": "1 сотка\n",
+              "apart_price": "150 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "З/у по ул. Речная 21, 23\n",
+          "floors": [
+            {
+              "apart_floor": "1 сотка\n",
+              "apart_price": "310 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "З/у по ул. Речная 93, 95\n",
+          "floors": [
+            {
+              "apart_floor": "участок\n",
+              "apart_price": "3 000 000\n"
+            }
+          ]
+        },
+
+        {
+          "apaprt_spec": "Кирпичный дом по ул. Малахитовая,35\n",
+          "floors" : [
+            {
+              "apart_floor" : "100 м2,7 соток\n",
+              "apart_price" : "4 200 000\n"
+            }
+          ]
+        },
+        {
+          "apaprt_spec": "Кирпичный дом по ул. Малахитовая,37\n",
+          "floors" : [
+            {
+              "apart_floor" : "100 м2, 7 сото\nк",
+              "apart_price" : "4 200 000\n"
+            }
+          ]
+        },
+        {
+          "apaprt_spec": "Дом из бруса по ул.Прибрежная,47\n",
+          "floors" : [
+            {
+              "apart_floor" : "188 м2, 7 сото\nк",
+              "apart_price" : "4 800 000\n"
+            }
+          ]
+        },
+        {
+          "apaprt_spec": "Кирпичный дом по ул.Малахитовая,41\n",
+          "floors" : [
+            {
+              "apart_floor" : "234м2, 7 соток\n",
+              "apart_price" : "6 600 000\n"
+            }
+          ]
+        },
+        {
+          "apaprt_spec": "Кирпичный дом по ул.Малахитовая,43\n",
+          "floors" : [
+            {
+              "apart_floor" : "206,5 м2, 7 со\nток",
+              "apart_price" : "6 900 000\n"
+            }
+          ]
+        },
+        {
+          "apaprt_spec": "Кирпичный дом по ул.Малахитовая,49\n",
+          "floors" : [
+            {
+              "apart_floor" : "92,7 м2, 7 сот\nок",
+              "apart_price" : "4 500 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "Земельные участки на х. им. Ленина\n",
+      "specs" : [
+        {
+          "apart_spec": "1-я очередь\n",
+          "floors": [
+            {
+              "apart_floor": "1 сотка\n",
+              "apart_price": "450 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "2-я, 3-я очередь\n",
+          "floors": [
+            {
+              "apart_floor": "1 сотка\n",
+              "apart_price": "350 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "Земельные участки в СНТ «Знаменский», п. Знаменский\n",
+      "specs" : [
+        {
+          "apart_spec": "Стандартные участки\n",
+          "floors": [
+            {
+              "apart_floor": "1 сотка\n",
+              "apart_price": "350 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Ул. Центральная, стандартные участки, пер. Парковый 12, 14, 16\n",
+          "floors": [
+            {
+              "apart_floor": "1 сотка\n",
+              "apart_price": "380 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Ул. Центральная угловые участки\n",
+          "floors": [
+            {
+              "apart_floor": "1 сотка\n",
+              "apart_price": "400 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Ул. Центральная, 2, 3\n",
+          "floors": [
+            {
+              "apart_floor": "Участок\n",
+              "apart_price": "10 000 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "Земельные участки СНТ «Виктория»\n",
+      "specs": [
+        {
+          "apart_spec": "Участки по ул. Краснодарская 11, 13, 81, ул. Солнечная 75/1\n",
+          "floors": [
+            {
+              "apart_floor": "1 сотка\n",
+              "apart_price": "220 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "Земельные участки проекта «Белая дача»\n",
+      "specs": [
+        {
+          "apart_spec": "Земельный участок с к/н 23:43:0415001:3028; ул., Центральная 44\n",
+          "floors": [
+            {
+              "apart_floor": "участок\n",
+              "apart_price": "15 000 000\n"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "parking" : [
+    {
+      "apart_name" : "Парковки",
+      "specs": [
+        {
+          "apart_spec": "ЖК «Дом на Школьной»\n",
+          "floors": [
+            {
+              "apart_floor": "",
+              "apart_price": "400 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "ЖК «Адмирал»\n",
+          "floors": [
+            {
+              "apart_floor": "",
+              "apart_price": "1 000 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "ЖК «Role Clef»\n",
+          "floors": [
+            {
+              "apart_floor": "",
+              "apart_price": "3 000 000 руб.– парковочное место\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "ЖК «Role Clef»\n",
+          "floors": [
+            {
+              "apart_floor": "",
+              "apart_price": "2 000 000 руб.– семейное парковочное место (одно из пары)\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "ЖК «URAL», блок-секция 1-5\n",
+          "floors": [
+            {
+              "apart_floor": "",
+              "apart_price": "500 000 руб. - парковочное место площадью 13,8-13,9 кв. м. -1 этаж.\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "ЖК «URAL», блок-секция 1-5\n",
+          "floors": [
+            {
+              "apart_floor": "",
+              "apart_price": "550 000 руб. - парковочное место площадью 17,6-20,8 кв. м. -1 этаж.\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "ЖК «URAL», блок-секция 1-5\n",
+          "floors": [
+            {
+              "apart_floor": "",
+              "apart_price": "600 000 руб. - парковочное место площадью 13,8 кв. м. 1 этаж.\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "ЖК «URAL», блок-секция 1-5\n",
+          "floors": [
+            {
+              "apart_floor": "",
+              "apart_price": "650 000 руб. - парковочное место площадью 17,6-20,2 кв. м. 1 этаж.\n"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "commercial" : [
+    {
+      "apart_name": "ЖК «Novella», Литер 6, ул. Питерская 40, 4 квартал 2023\n",
+      "specs": [
+        {
+          "apart_spec": "Все типы помещений\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "180 000\n"
+            },
+            {
+              "apart_floor": "2\n",
+              "apart_price": "150 000\n"
+            },
+            {
+              "apart_floor": "3\n",
+              "apart_price": "140 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Смородина», Литер 1, 1 квартал 2023, Застройщик ООО «АЛЬФА»\n",
+      "specs": [
+        {
+          "apart_spec": "Площадь от 39,4 до 58,8 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "160 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «AVrorA», 3 квартал 2022, Застройщик ООО «АльфаСтройКомплекс»\n",
+      "specs": [
+        {
+          "apart_spec": "Помещение №1, №6\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "340 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Помещение №2, №7, №10, №11\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "380 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Помещение №13, №9\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "370 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Помещение (18,22-45,3 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "250 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Помещение (47,57-90,9 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "240 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Помещение (112,93-145,54 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "230 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Дом на Лаврова», ул. Лаврова, 91, дом сдан\n",
+      "specs": [
+        {
+          "apart_spec": "Коммерция (25,5-76,9 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "70 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Дом на Кирова», ул. Кирова, 199, дом сдан\n",
+      "specs": [
+        {
+          "apart_spec": "Площадь от 14,3 до 45,5\n",
+          "floors": [
+            {
+              "apart_floor": "подвал\n",
+              "apart_price": "60 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Маршал», Литер 1, ул. Гаражная, 87, 1 квартал 2021\n",
+      "specs": [
+        {
+          "apart_spec": "Площадь от 13,3 до 73,3 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "подвал\n",
+              "apart_price": "80 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "№19 (45,6 кв. м), №22 (118,4 кв. м), №36 (111,4 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "190 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "№64 (124,7 кв. м), №65 (121,3 кв. м), №66 (124,3 кв. м), №67 (69,3 кв. м), №68 (105,6 кв. м), №69 (143,1 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "260 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Площадь от 13,3 до 73,3 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "подвал\n",
+              "apart_price": "80 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Маршал», Литер 2, ул. Гаражная, 87, 1 квартал 2021\n",
+      "specs": [
+        {
+          "apart_spec": "Площадь от 11,9 до 65,2 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "подвал\n",
+              "apart_price": "80 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "№15-16 (92,6 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "180 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "№10-11 (115,6 кв. м)\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "180 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Площадь от 13,3 до 73,3 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "подвал\n",
+              "apart_price": "80 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Маршал», Литер 5, ул. Гаражная, 87, 1 квартал 2021 (отдельно стоящее здание)\n",
+      "specs": [
+        
+        {
+          "apart_spec": "От 65,5 до 121,2\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "170 000\n"
+            },
+            {
+              "apart_floor": "3\n",
+              "apart_price": "160 000\n"
+            },
+            {
+              "apart_floor": "4,5\n",
+              "apart_price": "150 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Fresh», Литер 1, ул. В. Гассия 4/7, дом сдан\n",
+      "specs": [
+        {
+          "apart_spec": "Площадь от 13,3 до 43\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "60 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Fresh», Литер 2, ул. В. Гассия 4/7, 3 квартал 2022, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»\n",
+      "specs": [
+        {
+          "apart_spec": "Все типы помещений\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "135 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Помещение (20,5-76,5 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "340 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Помещение (97,2-127,7 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "340 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Fresh», Литер 3, ул. В. Гассия 4/7, 2 квартал 2023, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»\n",
+      "specs": [
+        {
+          "apart_spec": "Все типы помещений\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "125 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Помещение (28,9-65,9 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "70 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Помещение (127,7 м2)\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "65 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Fresh», Литер 4, ул. В. Гассия 4/7, 3 квартал 2024, Застройщик ООО «АВА ДЕВЕЛОПМЕНТ ПЛЮС»\n",
+      "specs": [
+        {
+          "apart_spec": "Все типы помещений\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "125 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "Все типы помещений\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "75 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Спортивный парк», Литер 13, ул. Войсковая 4, 1 квартал 2022. Застройщик ООО «АЛЬФА»\n",
+      "specs": [
+        {
+          "apart_spec": "Коммерция\n",
+          "floors": [
+            {
+              "apart_floor": "цоколь\n",
+              "apart_price": "60 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Спортивный парк», Литер 10, ул. Войсковая 4, 3 квартал 2022. Застройщик ООО «АЛЬФА»\n",
+      "specs": [
+        {
+          "apart_spec": "Коммерция\n",
+          "floors": [
+            {
+              "apart_floor": "цоколь\n",
+              "apart_price": "60 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «Спортивный парк», Литер 7, ул. Войсковая 4, 2 квартал 2022. Застройщик ООО «АЛЬФА»\n",
+      "specs": [
+        {
+          "apart_spec": "Коммерция\n",
+          "floors": [
+            {
+              "apart_floor": "цоколь\n",
+              "apart_price": "60 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «URAL», 4 квартал 2024, Застройщик ООО «СЗ ВЕРТИКАЛЬ»\n",
+      "specs": []
+    },
+    {
+      "apart_name": "ЖК «URAL», блок-секция 1\n",
+      "specs": [
+        {
+          "apart_spec": "лот 160,39 кв. м (строгое назначение - кабинет врача общей практики)\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "180 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "лоты 56,33 и 63,65 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "250 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "лот 186,76 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "220 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «URAL», блок-секция 2\n",
+      "specs": [
+        {
+          "apart_spec": "лот 45,03 кв. м (строгое назначение - опорный пункт полиции)\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "не продается\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "лот 55,25 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "250 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "лот 158,82 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "220 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «URAL», блок-секция 3\n",
+      "specs": [
+        {
+          "apart_spec": "лот 97,53 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "230 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "лоты 133,31 и 145,67 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "220 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «URAL», блок-секция 10\n",
+      "specs": [
+        {
+          "apart_spec": "лот 95,47 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "230 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "лоты 133,31 и 146,59 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "220 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «URAL», блок-секция 11\n",
+      "specs": [
+        {
+          "apart_spec": "лот 59,07 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "250 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "лот 155,02 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "220 000\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "apart_name": "ЖК «URAL», блок-секция 12\n",
+      "specs": [
+        {
+          "apart_spec": "лот 160,78 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "1\n",
+              "apart_price": "180 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "лоты 56,33 и 63,65 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "250 000\n"
+            }
+          ]
+        },
+        {
+          "apart_spec": "лот 186,75 кв. м\n",
+          "floors": [
+            {
+              "apart_floor": "2\n",
+              "apart_price": "220 000\n"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

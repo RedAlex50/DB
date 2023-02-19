@@ -1,0 +1,1 @@
+{'apart_spec': 'лот 155,02 кв. м\n', 'floors': "{'apart_floor': '2\\n', 'apart_price': '220 000\\n'}"}{'apart_spec': 'лот 160,78 кв. м\n', 'floors': "{'apart_floor': '1\\n', 'apart_price': '180 000\\n'}"}{'apart_spec': 'лоты 56,33 и 63,65 кв. м\n', 'floors': "{'apart_floor': '2\\n', 'apart_price': '250 000\\n'}"}

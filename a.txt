@@ -1,0 +1,1 @@
+{'apart_floor': '2\n', 'apart_price': '220 000\n'}
